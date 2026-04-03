@@ -1,4 +1,21 @@
-# Welcome to your Vesa project
+# xiazhi_music
+
+## 项目介绍
+
+这是一个使用现代前端技术栈构建的音乐播放器项目，提供直观、美观的音乐播放体验。
+
+### 核心功能
+- 🎵 音乐播放控制（播放、暂停、上一曲、下一曲）
+- 📱 响应式设计，适配不同设备屏幕
+- 🎨 现代化UI界面，使用shadcn-ui和Tailwind CSS
+- 🔄 自动播放列表管理
+- 📖 音乐详情展示
+
+### 技术特点
+- 使用React和TypeScript确保类型安全和代码质量
+- 基于Vite构建，提供快速的开发体验
+- 集成shadcn-ui组件库，实现一致的设计风格
+- 使用Tailwind CSS实现灵活的样式管理
 
 ## Project info
 
