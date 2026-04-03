@@ -17,57 +17,57 @@
 - 集成shadcn-ui组件库，实现一致的设计风格
 - 使用Tailwind CSS实现灵活的样式管理
 
-## Project info
+## 项目信息
 
-## How can I edit this code?
+## 如何编辑这段代码？
 
-There are several ways of editing your application.
+编辑应用有多种方式：
 
-**Use Vesa**
+**使用 Vesa**
 
-Start prompting in Vesa to make changes.
+在 Vesa 中开始提示以进行更改。
 
-Changes made via Vesa will be committed automatically to this repo.
+通过 Vesa 所做的更改将自动提交到该仓库。
 
-**Use your preferred IDE**
+**使用你喜欢的 IDE**
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Vesa.
+如果你想用自己的 IDE 本地工作，可以克隆这个仓库并推送更改。推送的变更也会反映在 Vesa 中。
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+唯一的要求是安装了 Node.js 和 NPM——[用 NVM 安装](https://github.com/nvm-sh/nvm#installing-and-updating)
 
-Follow these steps:
+请按照以下步骤操作：
 
 ```sh
-# Step 1: Clone the repository using the project's Git URL.
+# 步骤 1：使用项目的 Git URL 克隆仓库。
 git clone <YOUR_GIT_URL>
 
-# Step 2: Navigate to the project directory.
+# 步骤 2：导航到项目目录。
 cd <YOUR_PROJECT_NAME>
 
-# Step 3: Install the necessary dependencies.
+# 步骤 3：安装必要的依赖。
 npm i
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# 步骤 4：启动带有自动重载和即时预览的开发服务器。
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+**直接在 GitHub 编辑文件**
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+- 导航到想要的文件。
+- 点击文件视图右上角的"编辑"按钮（铅笔图标）。
+- 做出你的修改并提交这些变化。
 
-**Use GitHub Codespaces**
+**使用 GitHub Codespaces**
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+- 导航到你仓库的主页。
+- 点击右上角附近的"代码"按钮（绿色按钮）。
+- 选择"代码空间"标签。
+- 点击"新代码空间"以启动新的代码空间环境。
+- 直接在代码空间内编辑文件，完成后提交和推送你的更改。
 
-## What technologies are used for this project?
+## 这个项目使用了哪些技术？
 
-This project is built with:
+该项目由以下技术构建：
 
 - Vite
 - TypeScript
@@ -75,12 +75,12 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
+## 我该如何部署这个项目？
 
-Simply open Vesa and click on Share -> Publish.
+只需打开 Vesa，点击分享 -> 发布即可。
 
-## Can I connect a custom domain to my Vesa project?
+## 我可以把自定义域名连接到我的 Vesa 项目吗？
 
-Yes, you can!
+可以的！
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+要连接域名，请进入项目 > 设置 > 域名，点击连接域名。
